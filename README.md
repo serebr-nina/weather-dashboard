@@ -14,7 +14,7 @@ This application lets user find a weather forecast for a current day and four mo
 While working on this project I learned to create API keys, make serevr-side API calls, find and use the data needed for displaying in the app using Javascript and jQuery. 
 
 ## Website
-
+[Weather Dashboard](https://serebr-nina.github.io/weather-dashboard/)
 
 ## Contribution
 I used one of weather apps that I found on the GitHub website (https://jjcourtney.github.io/weather-dashboard/) as a base code. I greatly improved it's functionality while leaving CSS styles mostly unchanged besides making it more responsive for smaller screen sizes, changing colors and font.
